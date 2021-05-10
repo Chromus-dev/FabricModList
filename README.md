@@ -13,12 +13,11 @@ Mods that I use with Fabric
 - Horse Stats Vanilla - https://www.curseforge.com/minecraft/mc-mods/horsestatsvanilla
 - Inventory Hotswap - https://www.curseforge.com/minecraft/mc-mods/inventory-hotswap
 - Inventory HUD+ - https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge
-- Mouse Wheelie - https://www.curseforge.com/minecraft/mc-mods/mouse-wheeli
+- Mouse Wheelie - https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie
 - ReAuth - https://www.curseforge.com/minecraft/mc-mods/reauth-fabric
 - No Potion Offset - https://www.curseforge.com/minecraft/mc-mods/no-potion-offset
 - ShulkerBoxTooltip - https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip
 - CraftPresence - https://www.curseforge.com/minecraft/mc-mods/craftpresence 
-- I am Very Smart - https://www.curseforge.com/minecraft/mc-mods/i-am-very-smart
 - OptiFabric - https://www.curseforge.com/minecraft/mc-mods/optifabric
 - OptiFine - https://optifine.net/downloads
 - Chat Up! - https://www.curseforge.com/minecraft/mc-mods/chat-up
