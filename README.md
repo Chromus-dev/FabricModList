@@ -8,8 +8,6 @@ Mods that I use with Fabric
 - Beenfo - https://www.curseforge.com/minecraft/mc-mods/beenfo
 - Controlling - https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric
 - DefaultSettings - https://www.curseforge.com/minecraft/mc-mods/defaultsettings-fabric
-- ToolTip AutoWrap - https://www.curseforge.com/minecraft/mc-mods/tooltip-autowrap
-- Enchanted ToolTips - https://www.curseforge.com/minecraft/mc-mods/enchanted-tooltips
 - Horse Stats Vanilla - https://www.curseforge.com/minecraft/mc-mods/horsestatsvanilla
 - Inventory Hotswap - https://www.curseforge.com/minecraft/mc-mods/inventory-hotswap
 - Inventory HUD+ - https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge
