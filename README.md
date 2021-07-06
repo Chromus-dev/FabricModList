@@ -23,7 +23,6 @@ Mods that I use with Fabric
 - Switcheroo - https://www.curseforge.com/minecraft/mc-mods/autoswap-updated
 - Dynamic FPS - https://www.curseforge.com/minecraft/mc-mods/dynamic-fps
 - Hat List - https://www.curseforge.com/minecraft/mc-mods/hat-list
-- Item Model Fix - https://www.curseforge.com/minecraft/mc-mods/item-model-fix
 - Misc Tab - https://www.curseforge.com/minecraft/mc-mods/misc-tab
 - Cloth Config API - https://www.curseforge.com/minecraft/mc-mods/cloth-config
 - Chime - https://www.curseforge.com/minecraft/mc-mods/chime-fabric
