@@ -3,7 +3,6 @@ Mods that I use with Fabric
 
 - Fabric API - https://www.curseforge.com/minecraft/mc-mods/fabric-api
 - Mod Menu - https://www.curseforge.com/minecraft/mc-mods/modmenu
-- Enhanced Block Entities - https://modrinth.com/mod/ebe
 - AppleSkin - https://www.curseforge.com/minecraft/mc-mods/appleskin
 - Beenfo - https://www.curseforge.com/minecraft/mc-mods/beenfo
 - Controlling - https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric
@@ -26,6 +25,10 @@ Mods that I use with Fabric
 - Misc Tab - https://www.curseforge.com/minecraft/mc-mods/misc-tab
 - Cloth Config API - https://www.curseforge.com/minecraft/mc-mods/cloth-config
 - Chime - https://www.curseforge.com/minecraft/mc-mods/chime-fabric
+- Fabric Capes - https://www.curseforge.com/minecraft/mc-mods/capes
+- Fabric Language Kotlin - https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin
+- Don't Drop It! - https://www.curseforge.com/minecraft/mc-mods/dont-drop-it
+- Ok Zoomer - https://www.curseforge.com/minecraft/mc-mods/ok-zoomer
 <br>
 
 - OptiFabric - https://www.curseforge.com/minecraft/mc-mods/optifabric
