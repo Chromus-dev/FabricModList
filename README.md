@@ -30,7 +30,9 @@ Mods that I use with Fabric
 
 - OptiFabric - https://www.curseforge.com/minecraft/mc-mods/optifabric
 - OptiFine - https://optifine.net/downloads
+
 **OR**
+
 - Sodium - https://modrinth.com/mod/sodium
 - Hydrogen - https://modrinth.com/mod/hydrogen
 - Lithium - https://modrinth.com/mod/lithium
