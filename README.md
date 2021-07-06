@@ -29,6 +29,7 @@ Mods that I use with Fabric
 - Fabric Language Kotlin - https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin
 - Don't Drop It! - https://www.curseforge.com/minecraft/mc-mods/dont-drop-it
 - Ok Zoomer - https://www.curseforge.com/minecraft/mc-mods/ok-zoomer
+- NoFog - https://www.curseforge.com/minecraft/mc-mods/nofog
 <br>
 
 - OptiFabric - https://www.curseforge.com/minecraft/mc-mods/optifabric
