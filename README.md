@@ -30,6 +30,7 @@ Mods that I use with Fabric
 - Don't Drop It! - https://www.curseforge.com/minecraft/mc-mods/dont-drop-it
 - Ok Zoomer - https://www.curseforge.com/minecraft/mc-mods/ok-zoomer
 - NoFog - https://www.curseforge.com/minecraft/mc-mods/nofog
+- Clear Skies - https://www.curseforge.com/minecraft/mc-mods/clear-skies
 <br>
 
 - OptiFabric - https://www.curseforge.com/minecraft/mc-mods/optifabric
