@@ -16,8 +16,6 @@ Mods that I use with Fabric
 - No Potion Offset - https://www.curseforge.com/minecraft/mc-mods/no-potion-offset
 - ShulkerBoxTooltip - https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip
 - CraftPresence - https://www.curseforge.com/minecraft/mc-mods/craftpresence 
-- OptiFabric - https://www.curseforge.com/minecraft/mc-mods/optifabric
-- OptiFine - https://optifine.net/downloads
 - Chat Up! - https://www.curseforge.com/minecraft/mc-mods/chat-up
 - Clear Despawn - https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric
 - ClickThrough - https://www.curseforge.com/minecraft/mc-mods/clickthrough
@@ -29,3 +27,11 @@ Mods that I use with Fabric
 - Misc Tab - https://www.curseforge.com/minecraft/mc-mods/misc-tab
 - Cloth Config API - https://www.curseforge.com/minecraft/mc-mods/cloth-config
 - Chime - https://www.curseforge.com/minecraft/mc-mods/chime-fabric
+
+- OptiFabric - https://www.curseforge.com/minecraft/mc-mods/optifabric
+- OptiFine - https://optifine.net/downloads
+**OR**
+- Sodium - https://modrinth.com/mod/sodium
+- Hydrogen - https://modrinth.com/mod/hydrogen
+- Lithium - https://modrinth.com/mod/lithium
+- Phosphor - https://modrinth.com/mod/phosphor
