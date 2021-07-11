@@ -31,6 +31,7 @@ Mods that I use with Fabric
 - Ok Zoomer - https://www.curseforge.com/minecraft/mc-mods/ok-zoomer
 - NoFog - https://www.curseforge.com/minecraft/mc-mods/nofog
 - Clear Skies - https://www.curseforge.com/minecraft/mc-mods/clear-skies
+- Simple Discord RPC - https://www.curseforge.com/minecraft/mc-mods/simple-discord-rpc
 <br>
 
 - OptiFabric - https://www.curseforge.com/minecraft/mc-mods/optifabric
